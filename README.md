@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Jakub, a IT Coordinator in BEST Wroclaw student organization, who want to become Fullstack Developer 👨‍💻</div>  
+### <div align="center">I'm Jakub, an IT Coordinator in BEST Wroclaw student organization, who want to become Fullstack Developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [BEST Wroclaw](http://www.best.wroclaw.pl/) main website  
