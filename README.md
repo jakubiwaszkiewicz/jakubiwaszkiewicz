@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<iframe src="https://giphy.com/embed/2F3NOFXlJcTX2rBHhB" style="width: 100%; " frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>  
   
 
-### <div align="center">I'm Jakub, a IT Coordinator in BEST Wroclaw who want to become Fullstack Developer 👨‍💻</div>  
+### <div align="center">I'm Jakub, a IT Coordinator in BEST Wroclaw student organization, who want to become Fullstack Developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [BEST Wroclaw](http://www.best.wroclaw.pl/) main website  
@@ -12,7 +13,7 @@
 - 🌱 I’m currently learning React, Backend and DevOps technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like tea over coffee :)
   
 
 <br/>  
