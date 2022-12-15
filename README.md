@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-<iframe src="https://giphy.com/embed/2F3NOFXlJcTX2rBHhB" style="width: 100%; " frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/2F3NOFXlJcTX2rBHhB" align="center" style="width: 100%"></img>
+
 </div>  
   
 
