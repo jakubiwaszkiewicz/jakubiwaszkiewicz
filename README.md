@@ -7,7 +7,7 @@
 ### <div align="center">I'm Jakub, an IT Coordinator in BEST Wroclaw student organization, who want to become Fullstack Developer 👨‍💻</div>  
   
 
-- 🔭 I’m working right now on [BEST Wroclaw](http://www.best.wroclaw.pl/) main website, algorithms connected with operating systems, 
+- 🔭 I’m working right now on [BEST Wroclaw](http://www.best.wroclaw.pl/) main website and algorithms connected with operating systems (FCFS, SFJ etc.).
   
 
 - 🌱 I’m currently learning React, Backend and DevOps technologies  
