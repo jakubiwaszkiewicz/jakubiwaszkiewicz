@@ -26,7 +26,7 @@
 
 ### Frontend  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,tailwindcsss,flutter&perline=3" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,tailwind&perline=3" />
 </div>
 
 </td>
