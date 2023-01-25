@@ -20,7 +20,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -44,6 +44,7 @@
 
 ### In progress
 <div align="center"> 
+  <img src="https://skillicons.dev/icons?i=nginx,mongodb,nodejs,express&theme=dark&perline=3" />
   <a href="https://www.nginx.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
   </a>
