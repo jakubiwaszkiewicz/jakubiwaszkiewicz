@@ -23,19 +23,25 @@
 <table align="center">
 <tr>
 <td valign="top" width="33%">
+  
 ### Frontend  
+  
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,tailwind&theme=dark&perline=3" />
 </div>
 </td> 
 <td valign="top" width="33%">
-### Backend  
+  
+### Backend
+
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=nodejs,linux,bash,git&theme=dark&perline=3" />
 </div>
 </td>
 <td align="top" width="33%">
+  
 ### In progress
+  
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=nginx,mongodb,nodejs,express&theme=dark&perline=3" />
 </div>
