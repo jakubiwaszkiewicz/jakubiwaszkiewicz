@@ -35,7 +35,7 @@
 
 ### Backend  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=nodejs,linux,bash,py,git&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,bash,git&theme=dark&perline=3" />
 </div>
 
 </td>
