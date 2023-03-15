@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning React, Backend and DevOps technologies  
   
 
-- ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like tea over coffee and Heisenberg > Homelander :)
+- ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like coffee over tea and Heisenberg > Homelander :)
   
 
 <br/>  
