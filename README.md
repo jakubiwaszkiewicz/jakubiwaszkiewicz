@@ -27,7 +27,7 @@
 ### Frontend  
   
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,css,html,tailwind&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,css,html,tailwind,next&theme=dark&perline=3" />
 </div>
 </td> 
 <td valign="top" width="33%">
@@ -35,7 +35,7 @@
 ### Backend
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,linux,bash,mongodb,git&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,linux,bash,mongodb&theme=dark&perline=3" />
 </div>
 </td>
 <td align="top" width="33%">
