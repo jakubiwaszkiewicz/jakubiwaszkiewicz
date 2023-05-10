@@ -27,7 +27,7 @@
 ### Frontend  
   
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,css,html,tailwind,next&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,tailwind,next&theme=dark&perline=3" />
 </div>
 </td> 
 <td valign="top" width="33%">
