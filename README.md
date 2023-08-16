@@ -10,7 +10,7 @@
 - 🔭 I’m working right now on setting up a new server for [BEST Wroclaw](http://www.best.wroclaw.pl/) student organization.
   
 
-- 🌱 I’m currently learning Nest.js and DevOps technologies (Docker, Kubernetes, Ansible, Traefik)  
+- 🌱 I’m currently learning Nest.js and DevOps technologies (Docker, Caddy, Traefik)  
   
 
 - ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like coffee over tea and Heisenberg > Homelander :)
