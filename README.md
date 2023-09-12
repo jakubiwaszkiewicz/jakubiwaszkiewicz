@@ -7,10 +7,10 @@
 ### <div align="center">I'm Jakub, an IT Coordinator in BEST Wroclaw student organization 👨‍💻</div>  
   
 
-- 🔭 I’m working right now on setting up a new server for [BEST Wroclaw](http://www.best.wroclaw.pl/) student organization.
+- 🔭 I’m working right now on setting up a new server for [BEST Wroclaw](https://www.best.wroclaw.pl/) student organization.
   
 
-- 🌱 I’m currently learning Nest.js and DevOps technologies (Docker, Caddy, Traefik)  
+- 🌱 I’m currently learning Nest.js
   
 
 - ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like coffee over tea and Heisenberg > Homelander :)
