@@ -38,9 +38,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,docker,github,bash&theme=dark&perline=3" />
 </div>
 </td>
-  
-</tr>
-</table>
+<td valign="top" width="50%">
 
 ### DevOps
 
@@ -48,6 +46,12 @@
   <img src="https://skillicons.dev/icons?i=gcp,aws,,githubactions,bash&theme=dark&perline=3" />
 </div>
 </td>
+
+</tr>
+
+</table>
+
+
   
 </tr>
 </table>
