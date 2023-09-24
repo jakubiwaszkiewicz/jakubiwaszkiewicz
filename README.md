@@ -22,7 +22,7 @@
 ## My Skill Set 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
   
 ### Frontend  
   
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,next&theme=dark&perline=3" />
 </div>
 </td> 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
   
 ### Backend
 
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,docker,github,bash&theme=dark&perline=3" />
 </div>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### DevOps
 
@@ -48,7 +48,10 @@
 </td>
 
 </tr>
-
+<tr>
+<td valign="center" width="33%">
+</td>
+</tr>
 </table>
 
 
