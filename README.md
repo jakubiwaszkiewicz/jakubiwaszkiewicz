@@ -35,7 +35,7 @@
 ### Backend
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,docker,github,bash&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,docker,github&theme=dark&perline=3" />
 </div>
 </td>
 <td valign="top" width="33%">
