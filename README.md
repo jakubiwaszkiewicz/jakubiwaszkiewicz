@@ -42,6 +42,16 @@
 </tr>
 </table>
 
+### DevOps
+
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=gcp,aws,,githubactions,bash&theme=dark&perline=3" />
+</div>
+</td>
+  
+</tr>
+</table>
+
 <br/>  
 
 ## Connect with me  
