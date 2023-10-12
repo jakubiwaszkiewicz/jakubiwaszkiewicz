@@ -69,6 +69,5 @@
 <a href="https://www.facebook.com/kuba.iwaszkiewicz.5" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-</div>  
-![Codewars](https://github.r2v.ch/codewars?user=jakubiwaszkiewicz&stroke=red)
-<!-- Generated using https://profilinator.rishav.dev/ -->
+</div>
+codewarshttps://www.codewars.com/users/jakubiwaszkiewicz/badges/large
