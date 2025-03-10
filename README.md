@@ -3,14 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Jakub, an IT Coordinator in BEST Wroclaw student organization 👨‍💻</div>  
+### <div align="center">Hello there, I'm Jakub, an Jack of All Trades in IT👨‍💻</div>  
   
 
 - 🔭 I’m working right now in Nokia as AI/ML Developer and Software Engineer in OwlSentry.
-  
 
-- 🌱 I’m currently learning about NLP.
-  
+- 🌱 I’m currently instrested in NLP.
 
 - ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like coffee over tea and Heisenberg > Homelander :)
 
