@@ -13,8 +13,6 @@
   
 
 - ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like coffee over tea and Heisenberg > Homelander :)
-  
-My work account: https://github.com/iwaszkiewicz-owlsentry
 
 <br/>  
 
