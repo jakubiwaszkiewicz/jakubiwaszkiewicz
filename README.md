@@ -6,58 +6,15 @@
 ### <div align="center">I'm Jakub, an IT Coordinator in BEST Wroclaw student organization 👨‍💻</div>  
   
 
-- 🔭 I’m working right now on setting up a new websites for [BEST Wroclaw](https://www.best.wroclaw.pl/) student organization.
+- 🔭 I’m working right now in Nokia as AI/ML Developer and Software Engineer in OwlSentry.
   
 
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning about NLP.
   
 
 - ⚡ Fun fact: I prefer 4 spaces over 2 spaces, like coffee over tea and Heisenberg > Homelander :)
   
 My work account: https://github.com/iwaszkiewicz-owlsentry
-
-<br/>  
-
-
-## My Skill Set 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-  
-### Frontend  
-  
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,next&theme=dark&perline=3" />
-</div>
-</td> 
-<td valign="top" width="33%">
-  
-### Backend
-
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,docker,github&theme=dark&perline=3" />
-</div>
-</td>
-<td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=gcp,aws,,githubactions,bash&theme=dark&perline=3" />
-</div>
-</td>
-
-</tr>
-<!-- <tr>
-<td valign="center" width="33%">
-</td>
-</tr> -->
-</table>
-
-
-  
-</tr>
-</table>
 
 <br/>  
 
