@@ -5,15 +5,11 @@ SWE @ Nokia • MSc Computer Engineering Graduate
 
 </div>
 
----
-
 ## About Me
 - MSc Computer Engineering specializing in AI systems in medicine  
 - 3+ years of industry experience in AI/ML, software development, DevOps and web technologies  
 - Published student research ([ISW 2025](https://isw.kssk.pwr.edu.pl/assets/docs/ISW_2025_Proceedings.pdf)) on deep learning for honeycomb frame classification  
 - Passionate about applied machine learning, automation and big-scale backend
-
----
 
 ## Tech Stack
 
@@ -23,8 +19,6 @@ SWE @ Nokia • MSc Computer Engineering Graduate
 **DevTools:** GitLab CI, GitHub Actions, Grafana + Loki  
 **Web:** FastAPI, JavaScript  
 **Other:** SQL, Cloud(Azure, GCP, Coolify)  
-
----
 
 ## Experience
 
@@ -49,9 +43,6 @@ SWE @ Nokia • MSc Computer Engineering Graduate
 - Developed and maintained web applications using Next.js
 - Deployed and maintained a new organization-wide web server using Coolify
 
-
----
-
 ## Education
 
 ### Wrocław University of Technology  
@@ -66,8 +57,6 @@ SWE @ Nokia • MSc Computer Engineering Graduate
 - Engineering thesis using Deep Learning for honeycomb frame classification  
 - Published in ISW 2025 proceedings  
 
----
-
 ## Projects
 
 ### Bee Frame Classifier — Engineering Thesis  
@@ -78,13 +67,9 @@ Deep learning classifier detecting honey presence and capping patterns in bee fr
 Prototype for automated honeycomb uncapping using image processing  
 **Repo:** https://github.com/jakubiwaszkiewcz/masters-thesis
 
----
-
 ## Certificates
 - Azure Fundamentals (AZ‑900)  
 - CCNA: Introduction to Networks  
-
----
 
 ## Soft Skills
 - Team coordination  
@@ -92,17 +77,13 @@ Prototype for automated honeycomb uncapping using image processing
 - Agile methodologies  
 - Host meeting  
 
----
-
-## 🌍 Languages
+## Languages
 - Polish — Native  
 - English — C1  
 - German — A1  
 
----
-
-## 📬 Contact
-📧 **kkuba.iwaszkiewicz@gmail.com**  
+## Contact
+**kkuba.iwaszkiewicz@gmail.com**  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jakub-iwaszkiewicz-635bb4245/" target="_blank">
@@ -110,11 +91,6 @@ Prototype for automated honeycomb uncapping using image processing
 </a>
 </div>
 
----
-
 <div align="center">
-  
-*Thanks for stopping by! Feel free to explore my projects or reach out.*
-kkuba.iwaszkiewicz@gmail.com
 
 </div>
