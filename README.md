@@ -7,7 +7,7 @@ SWE in @Nokia • MSc Computer Engineering Graduate
 
 ---
 
-## 🚀 About Me
+## About Me
 - MSc Computer Engineering specializing in AI systems in medicine  
 - 3+ years of industry experience in AI/ML, software development, DevOps and web technologies  
 - Published student research ([ISW 2025](https://isw.kssk.pwr.edu.pl/assets/docs/ISW_2025_Proceedings.pdf)) on deep learning for honeycomb frame classification  
@@ -15,7 +15,7 @@ SWE in @Nokia • MSc Computer Engineering Graduate
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Languages:** Python, Java, Bash, 
 **ML/AI:** PyTorch, sklearn, NumPy, Pandas, SciPy  
@@ -26,7 +26,7 @@ SWE in @Nokia • MSc Computer Engineering Graduate
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Engineer — Nokia (06/2026–Present)
 Integrating an internal Nokia tool into the FCAPS application to enable LLM-powered troubleshooting and automated bug resolution
