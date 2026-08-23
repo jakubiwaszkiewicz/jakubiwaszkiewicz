@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hello there, I'm Jakub Iwaszkiewicz
-SWE in @Nokia • MSc Computer Engineering Graduate
+SWE @ Nokia • MSc Computer Engineering Graduate
 
 </div>
 
