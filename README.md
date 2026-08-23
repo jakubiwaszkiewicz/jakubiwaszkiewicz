@@ -29,14 +29,14 @@ SWE @ Nokia • MSc Computer Engineering Graduate
 ## Experience
 
 ### Software Engineer — Nokia (06/2026–Present)
-Integrating an internal Nokia tool into the FCAPS application to enable LLM-powered troubleshooting and automated bug resolution
-Developing and integrating LLM-based solutions for network fault analysis and troubleshooting
-Collaborating with a multinational engineering team on production-grade AI/ML features
+- Integrating an internal Nokia tool into the FCAPS application to enable LLM-powered troubleshooting and automated bug resolution
+- Developing and integrating LLM-based solutions for network fault analysis and troubleshooting
+- Collaborating with a multinational engineering team on production-grade AI/ML features
 
 ### AI/ML Working Student — Nokia (01/2025–06/2026)
-Developed a pattern-recognition tool for automated log analysis and troubleshooting
-Contributed to an internal LLM-powered code-generation tool for front-end applications
-Proposed graph-based test optimization concepts for improving test efficiency
+- Developed a pattern-recognition tool for automated log analysis and troubleshooting
+- Contributed to an internal LLM-powered code-generation tool for front-end applications
+- Proposed graph-based test optimization concepts for improving test efficiency
 
 ### Junior Software Developer — Owl Sentry (05/2024–05/2025)
 - Developed a Computer Vision prototype for automated rat detection
