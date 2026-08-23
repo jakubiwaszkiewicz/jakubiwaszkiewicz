@@ -17,12 +17,12 @@ SWE @ Nokia • MSc Computer Engineering Graduate
 
 ## Tech Stack
 
-**Languages:** Python, Java, Bash, 
+**Languages:** Python, Java, Bash   
 **ML/AI:** PyTorch, sklearn, NumPy, Pandas, SciPy  
-**MLOps:** Kedro, LangGraph
-**DevTools:** GitLab CI, GitHub Actions, Grafana + Loki
-**Web:** FastAPI, JavaScript
-**Other:** SQL, Cloud(Azure, GCP, Coolify)
+**MLOps:** Kedro, LangGraph  
+**DevTools:** GitLab CI, GitHub Actions, Grafana + Loki  
+**Web:** FastAPI, JavaScript  
+**Other:** SQL, Cloud(Azure, GCP, Coolify)  
 
 ---
 
